@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="media_archives">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.Grevador/media_archives/media_archives.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

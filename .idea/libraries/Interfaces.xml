@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Interfaces">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.Grevador/sprites/Interfaces/Skotizo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.Grevador/sprites/Interfaces/Achievements2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.Grevador/sprites/Interfaces/Teleporting.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
